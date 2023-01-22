@@ -5,8 +5,8 @@ Full Stack Web Developer with experience in a variety of languages and technolog
 
 ## Notable Projects 🔥
 
-- [End of Year Project](https://github.com/alaataieb/End-of-year-project) 🚀 - A project that showcases my skills in full stack web development.
-- [Pac-Man Game](https://github.com/alaataieb/Pacman-game) 🕹️ - A fun game developed with HTML, CSS, and Javascript.
+- [End of Year Project](https://github.com/Alaa-Taieb/alaa-taieb-MDW-2022) 🚀 - A project that showcases my skills in full stack web development.
+- [Borwser Pac-Man Game](https://github.com/Alaa-Taieb/AlaaTaieb_Assignment_Pacman) 🕹️ - A fun game developed with HTML, CSS, and Javascript.
 
 ## Education and Certifications 📚
 
