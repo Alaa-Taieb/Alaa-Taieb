@@ -22,4 +22,4 @@ Full Stack Web Developer with experience in a variety of languages and technolog
 - Learn machine learning algorithms and get comfortable using TenserFlow 🧠
 - Develop 3 to 4 Web applications for my portfolio 📱
 - Learn the React framework 🔧
-- Get my first job 💼
+
