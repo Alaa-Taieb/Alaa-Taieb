@@ -1,7 +1,7 @@
 # Alaa Taieb 🚀
 ## Profile Vues : ![](https://komarev.com/ghpvc/?username=Alaa-Taieb)
 
-Full Stack Web Developer with experience in a variety of languages and technologies. Proficient in Javascript, CSS, HTML, C#, JAVA, TypeScript, Python, PHP and Angular , Spring Boot , Vue ,  Unity 3D .
+Full Stack Web Developer with experience in a variety of languages and technologies. Proficient in Javascript, CSS, HTML, C#, JAVA, TypeScript, Python, PHP and Angular , Spring Boot , Vue ,  Unity 3D , Flask .
 
 ## Notable Projects 🔥
 
@@ -11,7 +11,8 @@ Full Stack Web Developer with experience in a variety of languages and technolog
 ## Education and Certifications 📚
 
 - Bachelor's degree in Web Development 🎓
-- Currently pursuing an American degree at coding dojo for Full Stack Python web development 💻
+- Certified by Coding Dojo America for Python Web Development
+- Currently Pursuing a Masters Degree in Data Science
 
 ## Links 🔗
 - LinkedIn: https://www.linkedin.com/in/alaa-taieb/ 🔗
