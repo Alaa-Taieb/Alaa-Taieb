@@ -18,6 +18,7 @@ Full Stack Web Developer with experience in a variety of languages and technolog
 - LinkedIn: https://www.linkedin.com/in/alaa-taieb/ 🔗
 - Facebook: https://www.facebook.com/profile.php?id=100009381085311 🔗
 - Twitter: https://twitter.com/alaa_taieb_tn 🔗
+- Website: https://alaataieb.com 🔗
 
 ## Goals 🎯
 - Learn machine learning algorithms and get comfortable using TenserFlow 🧠
