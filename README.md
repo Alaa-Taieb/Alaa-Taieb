@@ -12,7 +12,6 @@ Full Stack Web Developer with experience in a variety of languages and technolog
 
 - Bachelor's degree in Web Development 🎓
 - Certified by Coding Dojo America for Python Web Development
-- Currently Pursuing a Masters Degree in Data Science
 
 ## Links 🔗
 - LinkedIn: https://www.linkedin.com/in/alaa-taieb/ 🔗
