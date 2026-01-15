@@ -19,9 +19,3 @@ Full Stack Web Developer with experience in a variety of languages and technolog
 - Facebook: https://www.facebook.com/profile.php?id=100009381085311 🔗
 - Twitter: https://twitter.com/alaa_taieb_tn 🔗
 - Website: https://alaataieb.com 🔗
-
-## Goals 🎯
-- Learn machine learning algorithms and get comfortable using TenserFlow 🧠
-- Develop 3 to 4 Web applications for my portfolio 📱
-
-
