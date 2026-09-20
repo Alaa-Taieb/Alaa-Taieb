@@ -1,57 +1,29 @@
-# 👋 Hi, I'm Alaa Taieb
+<p align="center">
+  <img src="assets/working-map.svg" width="100%" alt="A visual map linking Tunisian data tools, business software, and AI code intelligence." />
+</p>
 
-### Full Stack Developer | DX & Performance Enthusiast | Co-founder @ CodePal | Web Development Instructor
+# Alaa Taieb
 
----
+**Full-stack developer and product builder based in Tunisia.**
 
-## 🚀 Mission & Focus
+The problem might be a Tunisian data format, a local business workflow, or an AI agent trying to understand a codebase. I build across the stack to turn problems like those into usable software.
 
-I am a **Full Stack Web Developer** dedicated to building **performant, accessible, and scalable digital products**. My work is driven by a passion for creating exceptional **Developer Experience (DX)** and leveraging modern architecture to deliver reliable solutions.
+[Portfolio](https://www.alaataieb.com/) · [LinkedIn](https://www.linkedin.com/in/alaa-taieb/) · [X](https://x.com/alaa_taieb)
 
-As a **Co-founder at [CodePal](https://codepal.online)**, I am actively involved in accelerating digital transformation in Tunisia by providing modern, high-quality, and affordable software solutions across Web, Mobile, AI, and Cloud platforms.
+## Projects
 
-## 🛠️ Technical Expertise
+| Project | What it does |
+| --- | --- |
+| [**Open-Codemap**](https://github.com/Alaa-Taieb/Open-Codemap) | Indexes a codebase locally and gives AI agents structural context through code chunks and call/import relationships. |
+| [**TunisiaKit**](https://github.com/Alaa-Taieb/tunisia-kit) | TypeScript utilities for validating and formatting Tunisian data, with local reference data. |
+| [**Agentic Coding Standard CLI**](https://github.com/Alaa-Taieb/agentic-std) | Scaffolds an `.agent/` directory to give coding agents consistent project context. |
+| [**LLM Web Interface**](https://github.com/Alaa-Taieb/LLM-Web-Interface) | A React and Node.js chat interface built around streaming model responses and API-key management. |
 
-My expertise spans the full stack, with a strong focus on Python and TypeScript ecosystems.
+## Background
 
-| Category | Key Technologies | Focus & Experience |
-| :--- | :--- | :--- |
-| **Frontend & DX** | **Next.js, React, TypeScript, Vue.js, Angular, Tailwind CSS** | Building modern, responsive UIs; optimizing for speed, accessibility, and developer tooling. |
-| **Backend & API** | **Python (Flask, Django, Rasa), Java (Spring Boot), Node.js (Express), C#** | Designing and implementing robust RESTful and Microservice architectures. |
-| **Data & Persistence** | **PostgreSQL, MySQL, MongoDB** | Database design, querying, and data management for scalable applications. |
-| **DevOps & Cloud** | **Docker, Git/GitHub/GitLab, Vercel, Agile (Scrum)** | CI/CD pipelines, containerization, and modern deployment strategies. |
-| **AI & Tooling** | **Agentic Coding Standard, Python CLI, LLM Integration** | Developing tools for AI-ready codebases and integrating large language models into applications. |
+I’ve taught full-stack web development and worked with clients through CodePal. I hold a bachelor’s degree in Web Development.
 
-## ✨ Featured Projects
+## Tools I work with
 
-I focus on projects that solve real-world problems and enhance the developer ecosystem.
-
-### 🇹🇳 [tunisia-kit](https://github.com/Alaa-Taieb/tunisia-kit) (TypeScript)
-The ultimate, zero-dependency TypeScript toolkit for Tunisian developers. It provides essential utilities for validating and formatting local data, including:
-*   **Validation:** CIN (National ID), RIB, IBAN, Phone Numbers.
-*   **Formatting:** Phone numbers, Currency (`TND`), and IBAN.
-*   **Data Access:** Static data for Governorates, Delegations, and Bank identification.
-
-### 🤖 [Agentic Coding Standard CLI](https://github.com/Alaa-Taieb/agentic-std) (Python)
-A Python CLI tool that automates the scaffolding of `.agent/` directories. This project implements the **Agentic Coding Standard**—a set of documentation conventions designed to provide immediate, standardized context to AI coding agents (like GitHub Copilot), significantly improving their performance and reliability.
-
-### 💬 LLM Web Interface (React/Node.js)
-A simple, high-performance chat interface built with React and Node.js, featuring streaming and secure key management for modern LLMs (e.g., Groq).
-
-## 🎓 Professional & Academic
-
-*   **Web Development Instructor** at **Coding Dojo**: Teaching full-stack web development with a focus on Python, Flask, and core web fundamentals.
-*   **Bachelor's Degree** in Web Development.
-*   **Certified** in Full Stack Web Development (Python) by Coding Dojo America.
-
-## 🔗 Connect with Me
-
-| Platform | Link |
-| :--- | :--- |
-| **Personal Website** | [alaataieb.com](https://alaataieb.com) |
-| **Company Website** | [codepal.online](https://codepal.online) |
-| **LinkedIn** | [linkedin.com/in/alaa-taieb](https://www.linkedin.com/in/alaa-taieb/) |
-| **Twitter** | [twitter.com/alaa_taieb_tn](https://twitter.com/alaa_taieb_tn) |
-
----
-*This README is maintained by Alaa Taieb and is designed to reflect his latest professional focus and contributions.*
+- **Core stack:** TypeScript, React, Node.js, Python
+- **Focus:** APIs, developer experience, performance, accessibility, and AI/agent tooling

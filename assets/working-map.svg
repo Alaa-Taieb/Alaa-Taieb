@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">A working map of Alaa Taieb’s projects</title>
+  <desc id="desc">Three connected motifs represent local data tools, business software, and code intelligence for AI agents.</desc>
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#123746"/>
+      <stop offset="1" stop-color="#205665"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 190 -370 0 870 125)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#68B9A5" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#68B9A5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#A9D2C2" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#sea)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+
+  <path d="M0 263C145 219 209 296 353 250s197-49 336-2 214 52 330 6 129-51 181-35" stroke="#79BDAA" stroke-opacity=".16"/>
+  <path d="M0 281c148-43 211 35 354-12s198-48 335-1 215 51 331 5 128-50 180-34" stroke="#79BDAA" stroke-opacity=".12"/>
+
+  <g stroke="#82C8B3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M326 148h80c24 0 28-43 53-43h58" stroke-opacity=".75" stroke-width="2"/>
+    <path d="M326 148h80c24 0 28 43 53 43h58" stroke-opacity=".38"/>
+    <path d="M685 105h42c26 0 31 43 56 43h69" stroke-opacity=".75" stroke-width="2"/>
+    <path d="M685 191h42c26 0 31-43 56-43h69" stroke-opacity=".38"/>
+  </g>
+
+  <g fill="#E9F1E9" font-family="Segoe UI, Arial, sans-serif" font-size="16">
+    <text x="199" y="275" text-anchor="middle">Tunisian data</text>
+    <text x="575" y="275" text-anchor="middle">Business software</text>
+    <text x="981" y="275" text-anchor="middle">AI code tools</text>
+  </g>
+
+  <g stroke="#8CCBB7" stroke-width="2">
+    <rect x="105" y="91" width="56" height="46" rx="5" fill="#1A4A58"/>
+    <rect x="171" y="91" width="56" height="46" rx="5" fill="#1A4A58"/>
+    <rect x="237" y="91" width="56" height="46" rx="5" fill="#1A4A58"/>
+    <rect x="105" y="147" width="56" height="46" rx="5" fill="#1A4A58"/>
+    <rect x="171" y="147" width="56" height="46" rx="5" fill="#E7BE61" stroke="#E7BE61"/>
+    <rect x="237" y="147" width="56" height="46" rx="5" fill="#1A4A58"/>
+    <rect x="105" y="203" width="56" height="24" rx="5" fill="#1A4A58"/>
+    <rect x="171" y="203" width="56" height="24" rx="5" fill="#1A4A58"/>
+    <rect x="237" y="203" width="56" height="24" rx="5" fill="#1A4A58"/>
+  </g>
+
+  <g stroke="#8CCBB7" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="478" y="87" width="194" height="137" rx="9" stroke-width="2"/>
+    <path d="M479 118h192M498 103h2m15 0h2m15 0h2" stroke-width="3"/>
+    <path d="M505 148h73m-73 20h119m-119 20h91" stroke-opacity=".7" stroke-width="5"/>
+    <circle cx="638" cy="188" r="6" fill="#E7BE61" stroke="#E7BE61"/>
+  </g>
+
+  <g stroke="#8CCBB7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M884 158h47m0 0 35-44m-35 44 35 43m0-87 46 20m-46-20 46-28m-46 115 46-20m-46 20 46 29m0-116 47 3m-47-3 24-45m-24 45 24 44m23 74 47-2m-47 2 26 42" stroke-opacity=".78" stroke-width="2"/>
+    <circle cx="879" cy="158" r="8" fill="#E7BE61" stroke="#E7BE61"/>
+    <circle cx="931" cy="158" r="6" fill="#205665" stroke-width="3"/>
+    <circle cx="966" cy="114" r="6" fill="#205665" stroke-width="3"/>
+    <circle cx="966" cy="201" r="6" fill="#205665" stroke-width="3"/>
+    <circle cx="1012" cy="134" r="5" fill="#205665"/>
+    <circle cx="1012" cy="87" r="5" fill="#205665"/>
+    <circle cx="1012" cy="181" r="5" fill="#205665"/>
+    <circle cx="1012" cy="230" r="5" fill="#205665"/>
+    <circle cx="1059" cy="137" r="5" fill="#205665"/>
+    <circle cx="1059" cy="180" r="5" fill="#205665"/>
+    <circle cx="1083" cy="92" r="5" fill="#205665"/>
+    <circle cx="1083" cy="222" r="5" fill="#205665"/>
+  </g>
+</svg>
